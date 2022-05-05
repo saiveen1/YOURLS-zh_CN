@@ -1195,7 +1195,7 @@ msgstr "没有国家数据。"
 
 #: yourls-infos.php:487
 msgid "Referrer shares"
-msgstr "引荐来源"
+msgstr "参照分享"
 
 #: yourls-infos.php:490 yourls-infos.php:492
 msgid "Others"
@@ -1215,7 +1215,7 @@ msgstr "其它："
 
 #: yourls-infos.php:525
 msgid "Direct vs Referrer Traffic"
-msgstr "直接流量与引荐流量"
+msgstr "直接流量与参照流量"
 
 #: yourls-infos.php:527
 msgid "Direct"
@@ -1228,15 +1228,15 @@ msgstr "直接流量："
 #: yourls-infos.php:529 yourls-infos.php:530
 msgid "<strong>%s</strong> hit"
 msgid_plural "<strong>%s</strong> hits"
-msgstr[0] "<strong>%s</strong> 命中"
+msgstr[0] "<strong>%s</strong> 点击"
 
 #: yourls-infos.php:530
 msgid "Referrer traffic:"
-msgstr "引荐来源网址流量："
+msgstr "参照流量："
 
 #: yourls-infos.php:539
 msgid "No referrer data."
-msgstr "无引荐来源网址数据。"
+msgstr "无参照数据。"
 
 #: yourls-infos.php:550
 msgid "Short link"
