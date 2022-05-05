@@ -31,7 +31,7 @@ msgstr[0] "计数 <strong>1</strong> 点击"
 
 #: admin/index.php:251
 msgid "Overall, tracking <strong class=\"increment\">%1$s</strong> links, <strong>%2$s</strong> clicks, and counting!"
-msgstr "总体而言，跟踪<strong class=“increment”>%1 $s</strong>链接，<strong>%2 $s</strong>点击次数，并且还在不断增加！"
+msgstr "总体而言，跟踪 <strong class=“increment”>%1$s</strong> 链接，<strong>%2$s</strong> 点击次数，并且还在不断增加！"
 
 #: admin/index.php:312
 msgid "No URL"
@@ -116,7 +116,7 @@ msgstr "作者"
 
 #: admin/plugins.php:86
 msgid "Action"
-msgstr "行动"
+msgstr "操作"
 
 #: admin/plugins.php:111
 msgid "(no info)"
@@ -152,7 +152,7 @@ msgstr "有关更多插件，请转到官方<href=“http://yourls.org/awesome�
 
 #: admin/tools.php:6
 msgid "Cool YOURLS Tools"
-msgstr "很酷的乌尔斯工具"
+msgstr "厉害的YOURLS 工具"
 
 #: admin/tools.php:13
 msgid "Bookmarklets"
@@ -484,7 +484,7 @@ msgstr "寻找"
 #: includes/functions-html.php:243 includes/functions-html.php:256
 #: includes/functions-html.php:653
 msgid "IP"
-msgstr "断续器"
+msgstr "IP"
 
 #: includes/functions-html.php:245
 msgid "Search in"
@@ -589,7 +589,7 @@ msgstr "转到第一页"
 
 #: includes/functions-html.php:332
 msgid "&laquo; First"
-msgstr "« 第一"
+msgstr "&laquo; 第一"
 
 #: includes/functions-html.php:346
 msgid "Go to Last Page"
@@ -675,7 +675,7 @@ msgstr "原始网址"
 
 #: includes/functions-html.php:655
 msgid "Actions"
-msgstr "行动"
+msgstr "操作"
 
 #: includes/functions-html.php:722
 msgid "Username"
@@ -715,7 +715,7 @@ msgstr "工具"
 
 #: includes/functions-html.php:861
 msgid "Page \"%1$s\" not found"
-msgstr "未找到页面“%1$s”"
+msgstr "未找到页面 \"%1$s\""
 
 #: includes/functions-html.php:861
 msgid "Not found"
@@ -826,23 +826,23 @@ msgstr "S_Saturday_initial"
 
 #: includes/functions-l10n.php:772
 msgid "Sun"
-msgstr "太阳"
+msgstr "周天"
 
 #: includes/functions-l10n.php:773
 msgid "Mon"
-msgstr "星期一"
+msgstr "周一"
 
 #: includes/functions-l10n.php:774
 msgid "Tue"
-msgstr "星期二"
+msgstr "周二"
 
 #: includes/functions-l10n.php:775
 msgid "Wed"
-msgstr "结婚"
+msgstr "周三"
 
 #: includes/functions-l10n.php:776
 msgid "Thu"
-msgstr "星期四"
+msgstr "周四"
 
 #: includes/functions-l10n.php:777
 msgid "Fri"
@@ -850,7 +850,7 @@ msgstr "周五"
 
 #: includes/functions-l10n.php:778
 msgid "Sat"
-msgstr "坐"
+msgstr "周六"
 
 #: includes/functions-l10n.php:781 includes/functions-l10n.php:796
 msgid "January"
@@ -950,15 +950,15 @@ msgstr "Dec_December_abbreviation"
 
 #: includes/functions-l10n.php:814
 msgid "am"
-msgstr "是"
+msgstr "am"
 
 #: includes/functions-l10n.php:815
 msgid "pm"
-msgstr "下午"
+msgstr "pm"
 
 #: includes/functions-l10n.php:816
 msgid "AM"
-msgstr "是"
+msgstr "AM"
 
 #: includes/functions-l10n.php:817
 msgid "PM"
@@ -991,7 +991,7 @@ msgstr "插件已激活"
 
 #: includes/functions-plugins.php:670 includes/functions-plugins.php:719
 msgid "Plugin generated unexpected output. Error was: <br/><pre>%s</pre>"
-msgstr "插件生成了意外输出。错误为： <br/><pre>%s</pre>"
+msgstr "插件生成了意外输出。错误为：<br/><pre>%s</pre>"
 
 #: includes/functions-plugins.php:710
 msgid "Plugin not active"
@@ -1079,7 +1079,7 @@ msgstr "我们的服务目前正在进行定期维护。"
 
 #: includes/functions.php:1059
 msgid "Things should not last very long, thank you for your patience and please excuse the inconvenience"
-msgstr "事情不应该持续很长时间，感谢您的耐心等待，请原谅给您带来的不便"
+msgstr "在努力了，感谢您的耐心等待，请原谅给您带来的不便"
 
 #: includes/functions.php:1185
 msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
@@ -1103,7 +1103,7 @@ msgstr "流量统计"
 
 #: yourls-infos.php:244 yourls-infos.php:441
 msgid "Traffic location"
-msgstr "交通位置"
+msgstr "流量地址"
 
 #: yourls-infos.php:245 yourls-infos.php:478
 msgid "Traffic sources"
@@ -1136,7 +1136,7 @@ msgstr "历史点击次数"
 #: yourls-infos.php:347
 msgid "about 1 day ago"
 msgid_plural "about %s days ago"
-msgstr[0] "大约 11 天 前"
+msgstr[0] "大约 %s 天前"
 
 #: yourls-infos.php:350
 msgid "Short URL created on %s"
@@ -1153,7 +1153,7 @@ msgstr "%s 每小时"
 #: yourls-infos.php:375
 msgid "%s hit"
 msgid_plural "%s hits"
-msgstr[0] "%s 命中"
+msgstr[0] "%s 次点击"
 
 #: yourls-infos.php:382
 msgid "Best day"
@@ -1162,7 +1162,7 @@ msgstr "最好的一天"
 #: yourls-infos.php:389
 msgid "<strong>%1$s</strong> hit on %2$s"
 msgid_plural "<strong>%1$s</strong> hits on %2$s"
-msgstr[0] "<strong>%1$s</strong> 命中 %2$s"
+msgstr[0] "%2$s 产生 <strong>%1$s</strong> 次点击"
 
 #: yourls-infos.php:390 yourls-infos.php:452
 msgid "Click for more details"
@@ -1175,7 +1175,7 @@ msgstr "年份 %s"
 #: yourls-infos.php:418 yourls-infos.php:456
 msgid "1 hit"
 msgid_plural "%s hits"
-msgstr[0] "1 次点击"
+msgstr[0] "%s 次点击"
 
 #: yourls-infos.php:435
 msgid "No traffic yet. Get some clicks first!"
@@ -1199,11 +1199,11 @@ msgstr "引荐来源"
 
 #: yourls-infos.php:490 yourls-infos.php:492
 msgid "Others"
-msgstr "别人"
+msgstr "其它"
 
 #: yourls-infos.php:494 yourls-infos.php:527
 msgid "Referrers"
-msgstr "推荐人"
+msgstr "参照"
 
 #: yourls-infos.php:501 yourls-infos.php:511
 msgid "(details)"
@@ -1211,11 +1211,11 @@ msgstr "（详细）"
 
 #: yourls-infos.php:511
 msgid "Various:"
-msgstr "各种："
+msgstr "其它："
 
 #: yourls-infos.php:525
 msgid "Direct vs Referrer Traffic"
-msgstr "直接流量与推荐人流量"
+msgstr "直接流量与引荐流量"
 
 #: yourls-infos.php:527
 msgid "Direct"
